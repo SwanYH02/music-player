@@ -5,3 +5,17 @@ body {
   max-width: 38rem;
   padding: 2rem;
 }
+
+.sidebar{
+  padding: 20px;
+}
+
+#now-playing{
+  font-size: 15px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+#controls{
+  margin-top: 20px;
+}
